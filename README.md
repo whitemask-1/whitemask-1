@@ -93,7 +93,7 @@ motto: "I learn by building from scratch — every layer, every config file."
 <td width="50%">
 
 ### 🌐 [Portfolio Site](https://github.com/whitemask-1/kw-portfolio)
-> Static site on CloudFront + S3 — **zero servers, full Terraform**
+> Static portfolio site on CloudFront + S3 — **zero servers, full Terraform**, nearly zero cost per month.
 
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
@@ -109,13 +109,13 @@ motto: "I learn by building from scratch — every layer, every config file."
 <td width="50%">
 
 ### 🖥️ [Headless Browser](https://github.com/whitemask-1/headless-browser)
-> Frameless Electron browser with collapsible sidebar for site groups
+> Frameless Electron browser with a unique tab management system and session state saving.
 
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ✅ Distraction-free browsing  
-✅ Saved site group switching  
+✅ Tab management system
 ✅ Command-line launch
 
 </td>
@@ -126,7 +126,7 @@ motto: "I learn by building from scratch — every layer, every config file."
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
 <br><br>
 
-*Always building something new*
+*building something new ...*
 
 </td>
 </tr>
@@ -138,9 +138,9 @@ motto: "I learn by building from scratch — every layer, every config file."
 
 | Topic | Focus |
 |:------|:------|
+| ☁️ **Data Engineering Specialization** | Pandas, NumPy, Architecture Design, API Gateways, ETL Processes, Data Validation |
 | 🧩 **Data Structures & Algorithms** | Building intuition, not just memorizing |
-| ☁️ **Advanced AWS Services** | EKS, Step Functions, Glue |
-| ⚙️ **Systems Programming** | Understanding fundamentals from the ground up |
+| ⚙️ **Lower Level Systems** | Understanding fundamentals from the ground up, from /bin to the frontend |
 
 ---
 
