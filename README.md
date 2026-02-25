@@ -114,8 +114,8 @@ motto: "I learn by building from scratch — every layer, every config file."
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-✅ Distraction-free browsing  
-✅ Tab management system
+✅ Distraction-free browsing   
+✅ Tab management system       
 ✅ Command-line launch
 
 </td>
@@ -147,9 +147,6 @@ motto: "I learn by building from scratch — every layer, every config file."
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=whitemask-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7B42BC&icon_color=00D4FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitemask-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B42BC&text_color=C9D1D9" />
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=whitemask-1&theme=tokyonight&hide_border=true&background=0D1117&ring=7B42BC&fire=00D4FF&currStreakLabel=00D4FF" />
 
