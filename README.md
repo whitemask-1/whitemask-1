@@ -26,8 +26,6 @@ fun_fact: "When I'm not coding, I'm cooking or studying."
 motto: "I learn by building from scratch — every layer, every config file."
 ```
 
-> 🔍 **Currently seeking internships** in **Data Engineering**, **Cloud/DevOps**, and **Software Engineering** for **Summer 2026**
-
 ---
 
 ## 🛠️ Tech Stack
