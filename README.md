@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-kevin.williams2218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.williams2218@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Williams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevine-w2218/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kw--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/whitemask-1/kw-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kw--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://d2hp309s7roz8n.cloudfront.net/#)
 
 </div>
 
