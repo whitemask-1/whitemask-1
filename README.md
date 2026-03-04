@@ -159,7 +159,6 @@ motto: "I learn by building from scratch — every layer, every config file."
 
 <a href="mailto:kevin.williams2218@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kevine-w2218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/whitemask-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=whitemask-1&style=for-the-badge&color=7B42BC&label=PROFILE+VIEWS)
 
