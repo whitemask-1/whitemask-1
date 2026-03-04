@@ -72,14 +72,25 @@ motto: "I learn by building from scratch — every layer, every config file."
 ---
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
 
+### 📈 [Black-Scholes Options Analytics](https://github.com/whitemask-1/black-scholes-engine)
+> Live options chain analyzer with **full Greeks, IV, and HV spread** from real market data
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Yahoo Finance](https://img.shields.io/badge/-yfinance-6001D2?style=flat-square&logo=yahoo&logoColor=white)
+
+✅ Newton-Raphson implied volatility solver  
+✅ Real-time market data integration  
+✅ IV/HV spread analysis across full chain
+
+</td>
+<td width="50%">
+
 ### 📰 [News Analytics Platform](https://github.com/whitemask-1/news-analytics-api)
 > Serverless pipeline ingesting and analyzing **100+ articles daily**
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
@@ -90,11 +101,12 @@ motto: "I learn by building from scratch — every layer, every config file."
 ✅ Automated daily ingestion pipeline
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌐 [Portfolio Site](https://github.com/whitemask-1/kw-portfolio)
 > Static portfolio site on CloudFront + S3 — **zero servers, full Terraform**, nearly zero cost per month.
-
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -104,29 +116,16 @@ motto: "I learn by building from scratch — every layer, every config file."
 ✅ Zero-server architecture
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🖥️ [Headless Browser](https://github.com/whitemask-1/headless-browser)
 > Frameless Electron browser with a unique tab management system and session state saving.
-
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-✅ Distraction-free browsing   
-✅ Tab management system       
+✅ Distraction-free browsing  
+✅ Tab management system  
 ✅ Command-line launch
-
-</td>
-<td width="50%" align="center">
-
-### 💡 More Coming Soon...
-<br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
-<br><br>
-
-*building something new ...*
 
 </td>
 </tr>
