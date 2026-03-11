@@ -22,8 +22,7 @@ location: Tallahassee, FL
 education: Florida State University (Sophomore)
 majors: [Statistics, Computational Science]
 interests: [Data Engineering, Cloud/DevOps, Software Engineering]
-fun_fact: "When I'm not coding, I'm cooking or studying."
-motto: "I learn by building from scratch — every layer, every config file."
+fun_fact: "When I'm not coding, I'm cooking or reading."
 ```
 
 ---
