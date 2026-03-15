@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=220&section=header&text=Kevin%20Williams&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20%E2%80%A2%20Cloud%20%E2%80%A2%20Software&descSize=20&descAlignY=55&animation=fadeIn&theme=onedark" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=220&section=header&text=Kevin%20Williams&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20%E2%80%A2%20Cloud%20%E2%80%A2%20Software&descSize=20&descAlignY=55&animation=fadeIn&theme=onedark" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B42BC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8E%93+Sophomore+%40+Florida+State+University;%F0%9F%93%8A+Statistics+%2B+Computational+Science" alt="Typing SVG" /></a>
