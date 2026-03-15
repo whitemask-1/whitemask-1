@@ -35,7 +35,7 @@ fun_fact: "When I'm not coding, I'm cooking or reading."
 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -68,99 +68,12 @@ fun_fact: "When I'm not coding, I'm cooking or reading."
 
 ---
 
-## 🚀 Featured Projects
-<table>
-<tr>
-<td width="50%">
-
-### 📈 [Black-Scholes Options Analytics](https://github.com/whitemask-1/black-scholes-engine)
-> Live options chain analyzer with **full Greeks, IV, and HV spread** from real market data
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Yahoo Finance](https://img.shields.io/badge/-yfinance-6001D2?style=flat-square&logo=yahoo&logoColor=white)
-
-✅ Newton-Raphson implied volatility solver  
-✅ Real-time market data integration  
-✅ IV/HV spread analysis across full chain
-
-</td>
-<td width="50%">
-
-### 📰 [News Analytics Platform](https://github.com/whitemask-1/news-analytics-api)
-> Serverless pipeline ingesting and analyzing **100+ articles daily**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-✅ Cost-optimized serverless architecture  
-✅ Modular Infrastructure as Code  
-✅ Automated daily ingestion pipeline
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [Portfolio Site](https://github.com/whitemask-1/kw-portfolio)
-> Static portfolio site on CloudFront + S3 — **zero servers, full Terraform**, nearly zero cost per month.
-![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-✅ Clean cloud-native infrastructure  
-✅ IaC-managed deployment  
-✅ Zero-server architecture
-
-</td>
-<td width="50%">
-
-### 🖥️ [Headless Browser](https://github.com/whitemask-1/headless-browser)
-> Frameless Electron browser with a unique tab management system and session state saving.
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-✅ Distraction-free browsing  
-✅ Tab management system  
-✅ Command-line launch
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📚 Currently Learning
 
 | Topic | Focus |
 |:------|:------|
-| ☁️ **Data Engineering Specialization** | Pandas, NumPy, Architecture Design, API Gateways, ETL Processes, Data Validation |
+| ☁️ **Data Engineering** | Pandas, NumPy, Architecture Design, API Gateways, ETL Processes, Data Validation |
 | 🧩 **Data Structures & Algorithms** | Building intuition, not just memorizing |
-| ⚙️ **Lower Level Systems** | Understanding fundamentals from the ground up, from /bin to the frontend |
+| ⚙️ **Development Ops** | CI/CD Pipelines, Containerization, Deployment, Scalability, Maintainability, Reliability |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=whitemask-1&theme=tokyonight&hide_border=true&background=0D1117&ring=7B42BC&fire=00D4FF&currStreakLabel=00D4FF" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whitemask-1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B42BC&line=00D4FF&point=FFFFFF&area=true&area_color=7B42BC" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="mailto:kevin.williams2218@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kevine-w2218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-![Visitors](https://komarev.com/ghpvc/?username=whitemask-1&style=for-the-badge&color=7B42BC&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B42BC,100:00D4FF&height=120&section=footer" />
-
-</div>
