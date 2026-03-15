@@ -81,7 +81,7 @@ fun_fact: "When I'm not coding, I'm cooking or reading."
 | Topic | Focus |
 |:------|:------|
 | ☁️ **Data Engineering** | Pandas, NumPy, Architecture Design, API Gateways, ETL Processes, Data Validation |
-| 🧩 **Data Structures & Algorithms** | Building intuition, not just memorizing |
+| 🧩 **Data Structures & Algorithms** | Building intuition for DSA applied to real world problems |
 | ⚙️ **Development Ops** | CI/CD Pipelines, Containerization, Deployment, Scalability, Maintainability, Reliability |
 
 ---
