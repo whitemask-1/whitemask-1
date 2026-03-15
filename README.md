@@ -1,15 +1,23 @@
 <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=220&section=header&text=Kevin%20Williams&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20%E2%80%A2%20Cloud%20%E2%80%A2%20Software&descSize=20&descAlignY=55&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B42BC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8E%93+Sophomore+%40+Florida+State+University;%F0%9F%93%8A+Statistics+%2B+Computational+Science" alt="Typing SVG" /></a>
-
-[![Email](https://img.shields.io/badge/Email-kevin.williams2218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.williams2218@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Williams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevine-w2218/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kw--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://d2hp309s7roz8n.cloudfront.net/#)
-
+<h1 align="center">
+  Hi, I'm Kevin Williams
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+</h1>
+<br>
+<div align="center">
+  <a href="mailto:kevin.williams2218@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kevin.williams2218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevine-w2218/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin_Williams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://d2hp309s7roz8n.cloudfront.net/">
+    <img src="https://img.shields.io/badge/Portfolio-kw--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ---
