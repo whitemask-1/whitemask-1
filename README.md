@@ -28,7 +28,7 @@
 name: Kevin Williams
 location: Tallahassee, FL
 education: Florida State University (Sophomore)
-majors: [Statistics, Computational Science]
+majors: [Applied Mathematics, Computational Science]
 interests: [Data Engineering, Cloud/DevOps, Software Engineering]
 fun_fact: "When I'm not coding, I'm cooking or reading."
 ```
